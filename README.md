@@ -4,7 +4,7 @@ This repository contains all work completed for the Bright Television Analytics 
 <br></br>
 
 📂 Repository Structure
-- Provided Information: Any base datasets or source documentation (if supplied)
+- Provided Information: Any base datasets or source documentation 
 - Planning: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gantt charts, workflow diagrams, planning documents
 - Analysis:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Excel analysis, Snowflake SQL code, data processing outputs, visuals
 - Presentation: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Final executive presentation and supporting materials
